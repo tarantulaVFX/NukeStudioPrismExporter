@@ -5,7 +5,7 @@ A Nuke Studio exporter for the Prism pipeline
 Current only tested on Windows 10.
 
 ## Installation
-- Install the prism pipeline: 
+- Install the prism pipeline: https://prism-pipeline.com/
 - Copy __*"prism/"*__ and __*"prism_init.py"*__ into your .nuke/Python/Startup folder.
 
 ## Features
